@@ -1,2 +1,3 @@
 # bookbot
-calculate stats about characters in books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
